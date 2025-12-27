@@ -1,0 +1,32 @@
+expense:
+  steps:
+    - receipt_collection
+    - policy_validation
+    - manager_approval
+    - reimbursement
+    - accounting_entry
+
+close:
+  steps:
+    - data_collection
+    - reconciliations
+    - journal_entries
+    - review
+    - reporting
+
+audit:
+  steps:
+    - evidence_collection
+    - control_testing
+    - sampling
+    - issue_tracking
+    - signoff
+
+tax:
+  steps:
+    - data_gathering
+    - calculations
+    - compliance_checks
+    - filing
+    - audit_response
+

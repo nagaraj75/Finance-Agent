@@ -1,0 +1,5 @@
+Employees submit expense receipts via email.
+Finance manually checks policy compliance in spreadsheets.
+Approvals are delayed due to manager availability.
+Entries are posted manually into ERP.
+
